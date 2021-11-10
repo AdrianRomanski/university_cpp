@@ -3,5 +3,5 @@ project(university_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(university_cpp training/variables/constants.cpp)
+add_executable(university_cpp training/array_vectors/vectors.cpp)
 
