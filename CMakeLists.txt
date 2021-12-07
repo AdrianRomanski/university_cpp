@@ -3,5 +3,5 @@ project(university_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(university_cpp training/strings/strings.cpp)
+add_executable(university_cpp lab/lab_4/assignment_4.cpp)
 
